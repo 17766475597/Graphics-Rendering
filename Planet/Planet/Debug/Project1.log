@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\hp\desktop\main.cpp(49): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+c:\users\hp\desktop\main.cpp(49): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+c:\users\hp\desktop\main.cpp(52): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+c:\users\hp\desktop\main.cpp(52): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+c:\users\hp\desktop\main.cpp(60): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+c:\users\hp\desktop\main.cpp(60): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+c:\users\hp\desktop\main.cpp(61): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+c:\users\hp\desktop\main.cpp(61): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+c:\users\hp\desktop\main.cpp(62): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+c:\users\hp\desktop\main.cpp(62): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+c:\users\hp\desktop\main.cpp(66): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+c:\users\hp\desktop\main.cpp(66): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+c:\users\hp\desktop\main.cpp(67): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+c:\users\hp\desktop\main.cpp(67): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+c:\users\hp\desktop\main.cpp(68): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+c:\users\hp\desktop\main.cpp(68): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+c:\users\hp\desktop\main.cpp(131): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\hp\desktop\main.cpp(178): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\hp\desktop\main.cpp(179): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\hp\desktop\main.cpp(480): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\hp\desktop\main.cpp(480): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  Project1.vcxproj -> C:\Users\HP\source\repos\Project1\Debug\Project1.exe
