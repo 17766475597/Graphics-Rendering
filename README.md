@@ -1,4 +1,6 @@
 # Graphics-Rendering
-NUS SoC Program\t
-Author:ZhangYuxuan\t
+NUS SoC Program
+
+Author:ZhangYuxuan
+
 IDE:Visual Studio2017
