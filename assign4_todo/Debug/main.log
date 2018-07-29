@@ -1,0 +1,16 @@
+﻿  drawable.cpp
+  glslprogram.cpp
+  glutils.cpp
+  trackball.cc
+  vbocube.cpp
+  vbomesh.cpp
+  vbomeshadj.cpp
+  vboplane.cpp
+  vbosphere.cpp
+  vbosphere2.cpp
+  vboteapot.cpp
+  vboteapotpatch.cpp
+  vbotorus.cpp
+  main.cpp
+  正在生成代码...
+  main.vcxproj -> C:\Users\HP\Desktop\graphic rendering\assign4_todo\assign4_todo\Debug\main.exe
